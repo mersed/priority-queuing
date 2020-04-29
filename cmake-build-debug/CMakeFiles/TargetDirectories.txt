@@ -1,0 +1,3 @@
+/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/CMakeFiles/pq.dir
+/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/CMakeFiles/edit_cache.dir

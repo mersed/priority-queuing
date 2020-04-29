@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pq"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pq">
+				<Option output="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/pq" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 pq"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pq/fast">
+				<Option output="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/pq" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 pq/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/mersed/Desktop/zadaca-komutacijske/pq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/common.cpp">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/common.h">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/main.cpp">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/thread_flowGenerator.cpp">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/thread_flowGenerator.h">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/thread_scheduler.cpp">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/thread_scheduler.h">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/thread_trafficClassificator.cpp">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/thread_trafficClassificator.h">
+			<Option target="pq"/>
+		</Unit>
+		<Unit filename="/home/mersed/Desktop/zadaca-komutacijske/pq/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/pq.dir/main.cpp.o CMakeFiles/pq.dir/thread_flowGenerator.cpp.o CMakeFiles/pq.dir/thread_trafficClassificator.cpp.o CMakeFiles/pq.dir/thread_scheduler.cpp.o CMakeFiles/pq.dir/common.cpp.o  -o pq 
